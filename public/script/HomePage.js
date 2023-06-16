@@ -13,7 +13,6 @@ fetch("././src/database/data.json")
 
 const capaDeEntrada = (arquivo) => {
   let result = ``
-  if (arquivo.id === 5){
     result += `
     <div class="shadow p-3 mb-5 rounded" id="desktop">
       <div class="container px-4 text-center">
@@ -57,7 +56,6 @@ const capaDeEntrada = (arquivo) => {
       </div>
     </div>
     `
-  }
   return result
 }
 
