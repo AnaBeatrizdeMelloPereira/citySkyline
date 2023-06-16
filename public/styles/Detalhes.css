@@ -1,0 +1,50 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+#superior {
+  padding: 0.5%;
+}
+
+#back button{
+  border-width: 0;
+  background-color: none;
+}
+
+#back button:hover {
+  background-color: none;
+  color: none;
+}
+
+.info {
+  background-color: #F4F4F4;
+}
+
+.active span {
+  border-bottom: 2px solid;
+}
+
+a span:hover{
+  border-bottom: 2px solid;
+}
+
+.star-icon {
+  color: goldenrod;
+}
+
+footer {
+  padding: 10px;
+  width: 100%;
+  bottom: 0;
+  border-top: 1px groove;
+}
+
+@media(min-width: 768px) {
+  #mobile {
+    display: none;
+  }
+}
+
+@media(max-width: 768px) {
+  #desktop {
+    display: none;
+  }
+}

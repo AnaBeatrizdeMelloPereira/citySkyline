@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
+      crossorigin="anonymous"
+    />
+    <link href="../../public/styles/SobreNos.css" rel="stylesheet" />
+    <link href="../../public/styles/Global.css" rel="stylesheet" />
+    <script src="../../public/script/goBack.js" defer></script>
+    <script src="../../public/script/goToTop.js" defer></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"
+      defer
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"
+      integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS"
+      crossorigin="anonymous"
+      defer
+    ></script>
+    <title>CitySkyline</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-success">
+      <div class="container-fluid">
+        <a class="navbar-brand text-light" href="../../HomePage.html"
+          >CitySkyline</a
+        >
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse justify-content-center"
+          id="navbarNavAltMarkup"
+        >
+          <div class="navbar-nav">
+            <a
+              class="nav-link text-light"
+              aria-current="page"
+              href="../../HomePage.html"
+            >
+              <i class="bi bi-house-fill"></i>
+              <span>Home</span>
+            </a>
+            <a class="nav-link text-light" href="./Cidades.html">
+              <i class="bi bi-buildings-fill"></i>
+              <span>Cidades</span>
+            </a>
+            <a class="nav-link active text-light" href="./SobreNos.html">
+              <i class="bi bi-people-fill"></i>
+              <span>Sobre Nós</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div id="superior">
+      <div class="row">
+        <div class="col-md-6">
+          <a href="#" id="back" class="btn btn-lg" onclick="goBack(event)">
+            <i class="bi bi-arrow-left"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <main>
+      <section class="container">
+        <article class="row" id="Missao">
+          <div class="col-md-6 align-self-center">
+            <div class="p-2">
+              <h2 class="text-success">
+                <i class="bi bi-graph-up"></i>
+                Nossa Missão
+              </h2>
+            </div>
+            <div class="p-2">
+              <p>
+                Nosso objetivo é ajudá-los a descobrir novos destinos e tornar o
+                planejamento e a realização da viagem o mais fácil e agradável
+                possível.
+              </p>
+              <p>
+                Queremos ser a fonte confiável de informações e recursos para
+                todos os tipos de viajantes, desde aqueles que buscam aventuras
+                emocionantes até os que desejam relaxar em um resort de luxo.
+                Para isso, trabalhamos com os melhores fornecedores do setor
+                para oferecer uma ampla variedade de opções de viagem que
+                atendam a todas as necessidades e orçamentos.
+              </p>
+              <p>
+                Acreditamos que viajar é uma das coisas mais enriquecedoras que
+                alguém pode fazer na vida, e queremos tornar essa jornada ainda
+                mais especial para nossos usuários.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="p-3">
+              <div class="shadow bg-white rounded">
+                <img
+                  src="https://img.freepik.com/vetores-premium/grupo-de-turistas-com-personagem-de-mochila-em-pe_40876-2190.jpg"
+                  alt="Nós"
+                />
+              </div>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <hr />
+
+      <section class="container" id="subtopico">
+        <div class="row">
+          <article class="col-md-6" id="Visao">
+            <div class="p-2">
+              <h2 class="text-success text-center">
+                <i class="bi bi-eye"></i>
+                <span>Visão</span>
+              </h2>
+            </div>
+            <div class="p-2">
+              <p>
+                Seu processo de pesquisa e planejamento de viagens sem qualquer
+                dor de cabeça.
+              </p>
+            </div>
+          </article>
+
+          <article class="col-md-6" id="Valores">
+            <div class="p-2">
+              <h2 class="text-success text-center">
+                <i class="bi bi-star"></i>
+                <span>Valores</span>
+              </h2>
+            </div>
+            <div class="p-2">
+              <ul>
+                <li>Comodidade aos clientes e/ou visitantes;</li>
+                <li>
+                  Manter a credibilidade nos serviços e informações
+                  disponibilizados;
+                </li>
+                <li>Compactade e Simplicidade.</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p class="text-dark">
+        &copy; Trabalho de Fundamento da Web 2023.1 - Ana Beatriz de Mello
+        Pereira CEFET/RJ
+      </p>
+    </footer>
+
+    <aside>
+      <a href="#" id="back-to-top" class="btn btn-success" onclick="goToTop()">
+        <i class="bi bi-arrow-up"></i>
+      </a>
+    </aside>
+  </body>
+</html>

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2022/12/mendoza-argentina-capa-01.jpg",
+    "name": "Mendoza",
+    "description": "Mendoza é uma cidade argentina que encanta os amantes do vinho, da gastronomia e da natureza. Você pode visitar vinícolas renomadas, degustar pratos deliciosos, fazer esportes de aventura e admirar a beleza da Cordilheira dos Andes. Mendoza é um destino para todas as estações e todos os gostos.",
+    "trending": true,
+    "rating": 4.8,
+    "numberOfTrips": 70000,
+    "price": 3570,
+    "location": "Localizado na parte centro-norte da província Argentina, em uma região de contrafortes e altas planícies, no lado leste dos Andes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28462292.821229845!2d-73.33922903640526!3d-29.446299328390754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x967e093ec45179bf%3A0x205a78f6d20efa3a!2sMendoza%2C%20Capital%20Department%2C%20Mendoza%2C%20Argentina!5e0!3m2!1spt-BR!2sbr!4v1686081633748!5m2!1spt-BR!2sbr",
+    "telephone": "+55 (22) 99999-9999",
+    "email": "citySkyline@gmail.com",
+    "reviews": [
+      {
+        "id": 1,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "João Almeida da Silva",
+        "age": 81,
+        "rating": 5,
+        "description": "Minha esposa e eu passamos as férias de inverno aqui..."
+      },
+      {
+        "id": 2,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Lúcio",
+        "age": 41,
+        "rating": 4,
+        "description": "Muito bom, mas poderia melhorar a recepção."
+      },
+      {
+        "id": 3,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Rafael Noronha",
+        "age": 33,
+        "rating": 5,
+        "description": "Muito bom, recomendei para toda minha família!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://storage.googleapis.com/chile-travel-newsite-static-content/2021/08/santiago-portada.jpg",
+    "name": "Santiago",
+    "description": "Santiago é uma cidade vibrante e diversificada, que combina cultura, natureza e gastronomia. Você pode explorar o centro histórico, visitar museus e monumentos, subir aos mirantes para admirar a vista da Cordilheira dos Andes, fazer compras em shoppings e feiras, degustar vinhos em vinícolas próximas e se aventurar em esportes de inverno ou verão.",
+    "trending": true,
+    "rating": 4.5,
+    "numberOfTrips": 65000,
+    "price": 2900,
+    "location": "Localizada na Região Metropolitana de Santiago, no vale central chileno, ao lado da cordilheira dos Andes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13960198.984811498!2d-79.46294817626492!3d-31.324421057826704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c5410425af2f%3A0x8475d53c400f0931!2sSantiago%2C%20Chile!5e0!3m2!1spt-BR!2sbr!4v1686082046216!5m2!1spt-BR!2sbr",
+    "telephone": "+55 (22) 99999-9999",
+    "email": "citySkyline@gmail.com",
+    "reviews": [
+      {
+        "id": 1,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Lívia Coutinho",
+        "age": 22,
+        "rating": 3,
+        "description": "Adorei!"
+      },
+      {
+        "id": 2,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Leo Lambert",
+        "age": 35,
+        "rating": 5,
+        "description": "Aproveitei 100% do meu dinheiro"
+      },
+      {
+        "id": 3,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Ramon dos Santos",
+        "age": 23,
+        "rating": 5,
+        "description": "Estou pensando até em me mudar. É impressionante como outras culturas podem ser tão receptivas."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://ondeficaremsuaviagem.com/wp-content/uploads/2017/01/onde-ficar-santa-marta.jpg",
+    "name": "Santa Marta",
+    "description": "Santa Marta é uma cidade histórica e encantadora na costa caribenha da Colômbia. Você pode desfrutar de praias paradisíacas, mergulhar em águas cristalinas, conhecer a cultura indígena e se aventurar na Sierra Nevada, a maior cordilheira costeira do mundo. Santa Marta é um destino para quem busca natureza, cultura e tranquilidade.",
+    "trending": true,
+    "rating": 4.1,
+    "numberOfTrips": 63500,
+    "price": 2780,
+    "location": "Situada na baía de mesmo nome na Colômbia, está localizada entre a Sierra Nevada de Santa Marta, com os picos mais altos do país, e o Mar do Caribe",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381223.0569727453!2d-74.57432586676994!3d11.417477525615286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef4f66ff59a173d%3A0x124b95fc153af9b8!2sSanta%20Marta%2C%20Madalena%2C%20Col%C3%B4mbia!5e0!3m2!1spt-BR!2sbr!4v1686082137008!5m2!1spt-BR!2sbr",
+    "telephone": "+55 (22) 99999-9999",
+    "email": "citySkyline@gmail.com",
+    "reviews": [
+      {
+        "id": 1,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Tâmara",
+        "age": 38,
+        "rating": 3,
+        "description": ""
+      },
+      {
+        "id": 2,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Anônimo",
+        "age": 35,
+        "rating": 2,
+        "description": "Estava muito quente no dia!"
+      },
+      {
+        "id": 3,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Sérgio Mello",
+        "age": 56,
+        "rating": 5,
+        "description": "As vezes a gente tem que dar um pausa em um lugar desses"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://c9h6z5c4.stackpathcdn.com/wp-content/uploads/2018/01/montevideu-uruguai-cidade.png",
+    "name": "Montevidéu",
+    "description": "Montevidéu é uma cidade charmosa e acolhedora, que mistura o antigo e o moderno em sua arquitetura e cultura. Você pode caminhar pelo centro histórico, visitar museus e monumentos, apreciar a vista do Rio da Prata, saborear a gastronomia local e se divertir na vida noturna. Montevidéu é um destino para quem busca tranquilidade, história e arte.",
+    "trending": false,
+    "rating": 4.2,
+    "numberOfTrips": 57600,
+    "price": 3280,
+    "location": "Localiza-se na margem oriental leste do Rio da Prata, Uruguai, com 67 quilômetros de costa.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3377675.3549395404!2d-57.992495549784934!3d-34.23550005648756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f80ffc63bf7d3%3A0x6b321b2e355bec99!2sMontevid%C3%A9u%2C%20Uruguai!5e0!3m2!1spt-BR!2sbr!4v1686082247688!5m2!1spt-BR!2sbr",
+    "telephone": "+55 (22) 99999-9999",
+    "email": "citySkyline@gmail.com",
+    "reviews": [
+      {
+        "id": 1,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Anônimo",
+        "age": 20,
+        "rating": 5,
+        "description": "Deslumbrante e aconchegante."
+      },
+      {
+        "id": 2,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Anônimo",
+        "age": 45,
+        "rating": 4,
+        "description": "Os hotéis são ótimos."
+      },
+      {
+        "id": 3,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Luana Martins",
+        "age": 43,
+        "rating": 4,
+        "description": "Pelo preço é incrível!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://www.segueviagem.com.br/wp-content/uploads/2022/07/shutterstock_1387848629.jpg",
+    "name": "Machu Picchu",
+    "description": "Machu Picchu é uma das maravilhas do mundo e o principal símbolo do Império Inca. Você pode conhecer a impressionante cidadela de pedra, cercada por montanhas e florestas, e descobrir os mistérios de sua história e cultura. Você pode chegar a Machu Picchu por trem ou pela famosa trilha inca, que leva quatro dias de caminhada. Machu Picchu é um destino para quem busca aventura, natureza e espiritualidade.",
+    "trending": false,
+    "rating": 4.6,
+    "numberOfTrips": 43000,
+    "price": 2456,
+    "location": "Machu Picchu está situado na Cordilheira dos Andes, localizado no vale do rio Urubamba, perto de Cusco, Peru, a antiga capital do Império Inca",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d723930.9110833937!2d-72.8798595385697!3d-13.140821613106096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916d9a5f89555555%3A0x3a10370ea4a01a27!2sMachu%20Picchu!5e0!3m2!1spt-BR!2sbr!4v1686082541487!5m2!1spt-BR!2sbr",
+    "telephone": "+55 (22) 99999-9999",
+    "email": "citySkyline@gmail.com",
+    "reviews": [
+      {
+        "id": 1,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Júlia Santos",
+        "age": 24,
+        "rating": 5,
+        "description": "Adoro a história do lugar!"
+      },
+      {
+        "id": 2,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Renan",
+        "age": 32,
+        "rating": 3,
+        "description": "Infelizmente, não me dou bem em lugares montanhosos"
+      },
+      {
+        "id": 3,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Anônimo",
+        "age": 21,
+        "rating": 5,
+        "description": "É tão interessante e lindo..."
+      }
+    ]
+  }
+]

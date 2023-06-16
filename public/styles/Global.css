@@ -1,0 +1,45 @@
+body::-webkit-scrollbar {
+  width: 5px; /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #f4f4f4; /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #198754; /* color of the scroll thumb */
+
+  border-radius: 8px;        /*roundness of the scroll thumb */
+}
+
+
+/* Menu mobile */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+/* Botão voltar para o topo */
+#back-to-top {
+  text-decoration: none;
+  position: fixed;
+  right: 20px;
+  bottom: 60px;
+  display: none; /* Inicialmente oculto */
+  opacity: 0; /* Define a opacidade inicial como 0 */
+  transition: opacity 0.3s ease-in-out; /* Adiciona uma transição suave */
+}
+
+#back-to-top.show {
+  display: block; /* Exibe o botão */
+  opacity: 1; /* Define a opacidade como 1 quando estiver visível */
+  animation: fade-in 0.3s ease-in-out; /* Adiciona uma animação de fade-in */
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
