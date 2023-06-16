@@ -16,9 +16,6 @@ img {
   width: 100%;
 }
 
-#Reviews img{
-  width: 100%;
-}
 
 #Reviews h5 {
   display: inline;
@@ -56,9 +53,16 @@ footer {
   #mobile {
     display: none;
   }
-
+  
   .Reviews-mobile {
     display: none;
+  }
+  
+  .Reviews img{
+    width: 100%;
+    height: 90px;
+    border-radius: 50%;
+    border: 1px solid;
   }
 
   .list-group-item {
@@ -76,6 +80,13 @@ footer {
 
   .Reviews-desktop {
     display: none;
+  }
+
+  .Reviews-mobile img{
+    width: 100%;
+    height: 45px;
+    border-radius: 50%;
+    border: 1px solid;
   }
 
   #Reviews-mobile p {

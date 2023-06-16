@@ -198,5 +198,44 @@
         "description": "É tão interessante e lindo..."
       }
     ]
+  },
+  {
+    "id": 6,
+    "image": "https://storage.googleapis.com/chile-travel-newsite-static-content/2021/03/cerroalegre-sernatur-ATR174-1-1024x540-1.jpeg",
+    "name": "Valparaíso",
+    "description": "Valparaíso é uma cidade única e colorida, conhecida por sua grande atividade artística e boemia. É uma cidade que atrai estudantes, estrangeiros, pintores, poetas e escritores, inspirados pelo porto e seus segredos. Graças a suas colinas labirínticas, seus becos misteriosos e seu centro histórico, foi declarada Patrimônio da Humanidade pela UNESCO em 2003.",
+    "rating": 4,
+    "numberOfTrips": 60000,
+    "price": 2300,
+    "location": "Valparaíso pertence à conurbação chamada Grande Valparaíso, localizada na região de Valparaíso, no Chile.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107015.9895228472!2d-71.65877272370852!3d-33.04989310921605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9689dde3de20cec7%3A0xeb0a3a8cbfe19b76!2sValpara%C3%ADso%2C%20Chile!5e0!3m2!1spt-BR!2sbr!4v1686933741599!5m2!1spt-BR!2sbr",
+    "telephone": "+55 (22) 99999-9999",
+    "email": "citySkyline@gmail.com",
+    "reviews": [
+      {
+        "id": 1,
+        "image": "https://cdn.discordapp.com/attachments/309152071360315394/1119308894993403944/Eu_bolsonaro_ze_droguinha.png",
+        "name": "Ronan Fudo",
+        "age": 11,
+        "rating": 3.5,
+        "description": "Achei maravilindo, melhor local que fui"
+      },
+      {
+        "id": 2,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Beatriz",
+        "age": 19,
+        "rating": 5,
+        "description": "O Chile é um lugar maravilhoso...!"
+      },
+      {
+        "id": 3,
+        "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
+        "name": "Thou",
+        "age": 25,
+        "rating": 1,
+        "description": "Muito bom o serviço"
+      }
+    ]
   }
 ]

@@ -49,7 +49,7 @@ const carregaComentario = arquivo => {
 const carregaComentarioMobile = arquivo => {
   return `
     <div class="col-2 p-1">
-      <img src="${arquivo.image}" class="img-fluid mr-3 align-self-center" alt="Imagem de Perfil">
+      <img src="${arquivo.image}" class="img-fluid mr-3 align-self-center rounded-circle" alt="Imagem de Perfil">
     </div>
     <div class="col-10 d-flex flex-column justify-content-center">
      <h6 class="p-1">${arquivo.name} - ${arquivo.age} anos</h6>
