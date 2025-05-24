@@ -81,7 +81,7 @@
   },
   {
     "id": 3,
-    "image": "https://ondeficaremsuaviagem.com/wp-content/uploads/2017/01/onde-ficar-santa-marta.jpg",
+    "image": "https://t4.ftcdn.net/jpg/04/94/18/69/360_F_494186934_vfNuhc76XMnMI8QUQPkqXnjcp62Ob8zZ.jpg",
     "name": "Santa Marta",
     "description": "Santa Marta é uma cidade histórica e encantadora na costa caribenha da Colômbia. Você pode desfrutar de praias paradisíacas, mergulhar em águas cristalinas, conhecer a cultura indígena e se aventurar na Sierra Nevada, a maior cordilheira costeira do mundo. Santa Marta é um destino para quem busca natureza, cultura e tranquilidade.",
     "trending": true,
@@ -121,7 +121,7 @@
   },
   {
     "id": 4,
-    "image": "https://c9h6z5c4.stackpathcdn.com/wp-content/uploads/2018/01/montevideu-uruguai-cidade.png",
+    "image": "https://media.istockphoto.com/id/1154688118/pt/foto/sunset-on-the-shore-of-pocitos-beach-montevideo-uruguay.jpg?s=612x612&w=0&k=20&c=v1F1YQUHTGN1Oixp0AW0CNuya0uyuB9EQDGK5oy_N_4=",
     "name": "Montevidéu",
     "description": "Montevidéu é uma cidade charmosa e acolhedora, que mistura o antigo e o moderno em sua arquitetura e cultura. Você pode caminhar pelo centro histórico, visitar museus e monumentos, apreciar a vista do Rio da Prata, saborear a gastronomia local e se divertir na vida noturna. Montevidéu é um destino para quem busca tranquilidade, história e arte.",
     "trending": false,
@@ -223,10 +223,10 @@
       {
         "id": 2,
         "image": "https://csparoes.pt/wp-content/uploads/2015/05/silhouete_padre-300x300.jpg",
-        "name": "Beatriz",
-        "age": 19,
+        "name": "Jonh Taylor",
+        "age": 27,
         "rating": 5,
-        "description": "O Chile é um lugar maravilhoso...!"
+        "description": "O pai é importado."
       },
       {
         "id": 3,
